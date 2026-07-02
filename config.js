@@ -213,6 +213,10 @@ const CONFIG = {
     // ─── CONTACT ───────────────────────────────────────────
     contactTitle: "Tell us about your renovation.",
     contactLead:  "Send through what you are planning and we will reply on WhatsApp to arrange a site visit and quote.",
-    contactPlaceholder: "e.g. kitchen renovation, bathroom remodel, full home makeover"
+    contactPlaceholder: "e.g. kitchen renovation, bathroom remodel, full home makeover",
+
+    // ─── CLOSING CTA BAND ──────────────────────────────────
+    ctaBannerTitle: "Ready when <em>you are.</em>",
+    ctaBannerSub:   "Call or WhatsApp and we'll help you straight away."
   }
 };
